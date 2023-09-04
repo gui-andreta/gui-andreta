@@ -66,7 +66,7 @@
 <p align="center">
   <a href="#" alt="Estatisticas">
     <img src="https://github-readme-stats.vercel.app/api?username=gui-andreta&theme=merko" style="height: 150px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-andreta&hide=html&layout=compact&theme=dark" style="height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-andreta&hide=html&layout=compact&theme=merko" style="height: 150px;">
   </a>
 			
 <p align="center">
