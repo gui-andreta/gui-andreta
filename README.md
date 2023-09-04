@@ -16,9 +16,9 @@
 
 ## 👨🏻‍💻 Sobre mim 
 
-- :books: Estou no último semestre de ADS
-- :technologist: Apaixonado por programação
-- :spiral_calendar: Programando e Estudando desde 2021
+- :books: Último Semestre de ADS
+- :technologist: Apaixonado por Programação
+- :spiral_calendar: Programando e Estudando Desde 2021
 	
 
 </br>
