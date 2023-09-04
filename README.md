@@ -1,8 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=37F741&width=465&lines=Eai%3F+Me+chamo+Guilherme+Andreta" alt="Typing SVG" /></a>
 </p>
-
-</br>
 <p align="center">
 <img src="https://media2.giphy.com/media/7BwPfsPE5xFfWE2U47/giphy.gif?cid=6c09b9522yb82ufrwghfn5foo88lk3dhfkydnz9gjpjo897v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" style="width: 1500px; height: 75px;">
 <br>
